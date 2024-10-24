@@ -19,5 +19,5 @@ Make sure you have a C++ compiler installed. You can use GCC or any other C++ co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crossword-puzzle.git
+   git clone https://github.com/superbyash14/crossword-puzzle.git
    cd crossword-puzzle
